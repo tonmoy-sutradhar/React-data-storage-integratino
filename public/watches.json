@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "name": "Apple Watch Series 12",
+    "price": 55555
+  },
+  {
+    "id": 2,
+    "name": "Samsung Galaxy Watch 22",
+    "price": 329
+  },
+  {
+    "id": 3,
+    "name": "Garmin Venu 8",
+    "price": 399
+  },
+  {
+    "id": 4,
+    "name": "Fitbit Sense 2",
+    "price": 299
+  },
+  {
+    "id": 5,
+    "name": "Amazfit GTR 4",
+    "price": 199
+  }
+]
